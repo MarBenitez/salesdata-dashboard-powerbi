@@ -43,11 +43,11 @@ This Sales Dashboard is a testament to my abilities as a data analyst and visual
 
 I invite you to explore the dashboard and see firsthand the insights that can be uncovered through effective data analysis and visualization.
 
-![1](https://github.com/MarBenitez/salesdata-dashboard-powerbi/blob/main/images/1)
-![2](https://github.com/MarBenitez/salesdata-dashboard-powerbi/blob/main/images/2)
-![3](https://github.com/MarBenitez/salesdata-dashboard-powerbi/blob/main/images/3)
-![4](https://github.com/MarBenitez/salesdata-dashboard-powerbi/blob/main/images/4)
-![5](https://github.com/MarBenitez/salesdata-dashboard-powerbi/blob/main/images/5)
+![1](https://github.com/MarBenitez/salesdata-dashboard-powerbi/blob/main/images/1.png)
+![2](https://github.com/MarBenitez/salesdata-dashboard-powerbi/blob/main/images/2.png)
+![3](https://github.com/MarBenitez/salesdata-dashboard-powerbi/blob/main/images/3.png)
+![4](https://github.com/MarBenitez/salesdata-dashboard-powerbi/blob/main/images/4.png)
+![5](https://github.com/MarBenitez/salesdata-dashboard-powerbi/blob/main/images/5.png)
 
 ---
 
