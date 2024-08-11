@@ -2,7 +2,9 @@
 
 ## Overview
 
-Welcome to the Sales Dashboard project! This repository showcases my ability to perform data analysis and create impactful visualizations that drive valuable business insights. The [dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTNhN2EzMDItMjhjYS00ZThlLTljMTgtYTM3OGUxMGNmYTAyIiwidCI6IjhhZWJkZGI2LTM0MTgtNDNhMS1hMjU1LWI5NjQxODZlY2M2NCIsImMiOjl9&embedImagePlaceholder=true) is a comprehensive representation of sales and financial data, meticulously crafted to demonstrate my skills in data analysis, visualization, and storytelling through data.
+Welcome to the Sales Dashboard project! This repository showcases my ability to perform data analysis and create impactful visualizations that drive valuable business insights. 
+
+The [dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTNhN2EzMDItMjhjYS00ZThlLTljMTgtYTM3OGUxMGNmYTAyIiwidCI6IjhhZWJkZGI2LTM0MTgtNDNhMS1hMjU1LWI5NjQxODZlY2M2NCIsImMiOjl9&embedImagePlaceholder=true) is a comprehensive representation of sales and financial data, meticulously crafted to demonstrate my skills in data analysis, visualization, and storytelling through data.
 
 ## Project Description
 
@@ -28,7 +30,7 @@ The data used in this dashboard is synthetic, often referred to as "toy data," g
 
 ## Purpose and Usefulness
 
-This dashboard is not only a demonstration of my technical capabilities in data analysis and visualization, but it also serves as an example of how I approach problem-solving and insight generation. The ability to translate complex data into clear, actionable insights is a crucial skill for any data analyst, and this project showcases my proficiency in:
+This [dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTNhN2EzMDItMjhjYS00ZThlLTljMTgtYTM3OGUxMGNmYTAyIiwidCI6IjhhZWJkZGI2LTM0MTgtNDNhMS1hMjU1LWI5NjQxODZlY2M2NCIsImMiOjl9&embedImagePlaceholder=true) is not only a demonstration of my technical capabilities in data analysis and visualization, but it also serves as an example of how I approach problem-solving and insight generation. The ability to translate complex data into clear, actionable insights is a crucial skill for any data analyst, and this project showcases my proficiency in:
 
 - **Data Wrangling and Cleaning**: Preparing and structuring data for analysis.
 - **DAX Calculations**: Utilizing DAX to create calculated measures and columns for deeper analysis.
@@ -41,7 +43,11 @@ This Sales Dashboard is a testament to my abilities as a data analyst and visual
 
 I invite you to explore the dashboard and see firsthand the insights that can be uncovered through effective data analysis and visualization.
 
-<iframe title="test_1" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiOTNhN2EzMDItMjhjYS00ZThlLTljMTgtYTM3OGUxMGNmYTAyIiwidCI6IjhhZWJkZGI2LTM0MTgtNDNhMS1hMjU1LWI5NjQxODZlY2M2NCIsImMiOjl9&embedImagePlaceholder=true" frameborder="0" allowFullScreen="true"></iframe>s
+![1](https://github.com/MarBenitez/salesdata-dashboard-powerbi/blob/main/images/1)
+![2](https://github.com/MarBenitez/salesdata-dashboard-powerbi/blob/main/images/2)
+![3](https://github.com/MarBenitez/salesdata-dashboard-powerbi/blob/main/images/3)
+![4](https://github.com/MarBenitez/salesdata-dashboard-powerbi/blob/main/images/4)
+![5](https://github.com/MarBenitez/salesdata-dashboard-powerbi/blob/main/images/5)
 
 ---
 
